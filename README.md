@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/results-summary-component-using-flexbox--pWf8p87KD)
+- Live Site URL: (https://resultcomponentsummarykp.netlify.app)
 
 ## My process
 
@@ -90,5 +90,3 @@ I want to be comfortable with using vanilla css before i start using bootstrap. 
 
 ## Acknowledgments
 I would like to thank my friends Edwin, Terence and Cliff for their help.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
